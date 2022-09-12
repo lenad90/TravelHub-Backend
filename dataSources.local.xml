@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="IU-213.6777.52">
+    <data-source name="mongosrv" uuid="bbd5eed0-589f-47a0-bd5b-a8f6cdece2d7">
+      <database-info product="Mongo DB" version="5.0.10" jdbc-version="4.2" driver-name="MongoDB JDBC Driver" driver-version="1.15" dbms="MONGO" exact-version="5.0.10" exact-driver-version="1.15" />
+      <case-sensitivity plain-identifiers="mixed" quoted-identifiers="mixed" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>atlas_db_user</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="travel_hub_db" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
+  </component>
+</project>
